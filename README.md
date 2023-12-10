@@ -1,3 +1,5 @@
+![Thumbnail](thumbnail.png)
+
 # Sushi Place - Restaurant Website
 
 Welcome to the Sushi Place repository! This project is a web-based representation of a Japanese restaurant, offering a delightful user experience with interactive animations and a modern design.
